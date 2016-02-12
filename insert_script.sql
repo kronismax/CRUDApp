@@ -1,0 +1,9 @@
+INSERT INTO test.user (name, age, isAdmin) VALUES ('Maxim', 20, true);
+INSERT INTO test.user (name, age, isAdmin) VALUES ('Victor', 25, false);
+INSERT INTO test.user (name, age, isAdmin) VALUES ('Stepan', 30, true);
+INSERT INTO test.user (name, age, isAdmin) VALUES ('Ivan', 40, false);
+INSERT INTO test.user (name, age, isAdmin) VALUES ('Alexer', 100, true);
+INSERT INTO test.user (name, age, isAdmin) VALUES ('Peter', 60, false);
+INSERT INTO test.user (name, age, isAdmin) VALUES ('Steve', 80, true);
+INSERT INTO test.user (name, age, isAdmin) VALUES ('Nikita', 200, false);
+INSERT INTO test.user (name, age, isAdmin) VALUES ('Valentin', 150, true);
